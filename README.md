@@ -1,17 +1,11 @@
 # EGMT: Entity-Guided Multi-Task Learning for Infrared and Visible Image Fusion
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.01870-b31b1b.svg)](https://arxiv.org/abs/2601.01870)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/downloads/)
 
 &gt; **IEEE Transactions on Multimedia 2025 (accepted Oct 2025)**  
 &gt; Wenyu Shao, Hongbo Liu, Yunchuan Ma, Ruili Wang
 
-&lt;p align="center"&gt;
-  &lt;img src="docs/framework.png" width="800"/&gt;
-  &lt;br&gt;
-  &lt;em&gt;Overview of the EGMT framework.&lt;/em&gt;
-&lt;/p&gt;
 
 ## 🔑 Highlights
 - **Entity-level semantics** instead of noisy sentence-level text → less hallucination, richer guidance  
