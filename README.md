@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2601.01870-b31b1b.svg)](https://arxiv.org/abs/2601.01870)
 [![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/downloads/)
 
-&gt; **IEEE Transactions on Multimedia 2025 (accepted Oct 2025)**  
+&gt; **IEEE Transactions on Multimedia 2026 (accepted Oct 2025)**  
 &gt; Wenyu Shao, Hongbo Liu, Yunchuan Ma, Ruili Wang
 
 
