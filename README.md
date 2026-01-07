@@ -37,7 +37,7 @@ For questions, dataset requests, or collaboration:
 ---
 
 ## 📖 Citation
-If you use this code or dataset, please cite:
+If this work is helpful to you, please cite:
 
 ```bibtex
 @misc{shao2026entityguidedmultitasklearninginfrared,
