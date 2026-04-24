@@ -40,13 +40,14 @@ For questions, dataset requests, or collaboration:
 If this work is helpful to you, please cite:
 
 ```bibtex
-@misc{shao2026entityguidedmultitasklearninginfrared,
-      title={Entity-Guided Multi-Task Learning for Infrared and Visible Image Fusion}, 
-      author={Wenyu Shao and Hongbo Liu and Yunchuan Ma and Ruili Wang},
-      year={2026},
-      eprint={2601.01870},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2601.01870}, 
-}
+@ARTICLE{11415707,
+  author={Shao, Wenyu and Liu, Hongbo and Ma, Yunchuan and Wang, Ruili},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Entity-Guided Multi-Task Learning for Infrared and Visible Image Fusion}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Semantics;Image fusion;Feature extraction;Visualization;Multitasking;Noise;Adaptation models;Multi label classification;Predictive models;Image reconstruction;Image fusion;Large vision-language models;Entity-guided cross-modal interaction;Multi-task learning},
+  doi={10.1109/TMM.2026.3668472}}
 ## 📂 Repo Structure (after release)
